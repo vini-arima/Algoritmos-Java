@@ -4,12 +4,12 @@
 Colocar as questões envolvendo linguagem de programação em Java.
 
 ## 🔷 Assuntos
-1-  \
-2-  \
-3-  \
-4-  \
-5-  \
-6- 
+1- Entrada de dados e Variáveis \
+2- Condicionais e Repetição  
+3- Vetores \
+4- Matrizes \
+5- Classes \
+
 ## 🔷 Livros
 Java Como Programar 10e \
 Padrões de Projetos: Soluções Reutilizáveis de
