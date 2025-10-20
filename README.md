@@ -9,6 +9,9 @@ Colocar as questões envolvendo linguagem de programação em Java.
 3- Vetores \
 4- Matrizes \
 5- Classes 
+6- Herança 
+7- Polimorfismo
+
 
 ## 🔷 Livros
 Java Como Programar 10e \
