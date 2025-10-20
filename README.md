@@ -8,8 +8,8 @@ Colocar as questões envolvendo linguagem de programação em Java.
 2- Condicionais e Repetição  
 3- Vetores \
 4- Matrizes \
-5- Classes 
-6- Herança 
+5- Classes \
+6- Herança \
 7- Polimorfismo
 
 
